@@ -1,0 +1,22 @@
+.button {
+    display: inline-block;
+    color: white;
+    width: 80px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin:10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .button:first-child{
+    background-color:green ;
+  }
+
+  .button:nth-child(2){
+    background-color:orange ;
+  }
+  .button:nth-child(3){
+    background-color:red ;
+  }

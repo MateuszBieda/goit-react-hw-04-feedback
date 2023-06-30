@@ -1,0 +1,42 @@
+
+
+
+.button {
+    display: inline-block;
+    color: white;
+    width: 80px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin:10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .button1 {
+    background-color: green;
+  }
+  
+  .button2 {
+    background-color: orange;
+  }
+  
+  .button3 {
+    background-color: red;
+  }
+  
+  .paragraph{       
+      font-weight: 500;
+      font-size: 60px;
+  }
+  .paragraph1{
+     
+      margin-bottom: 25px;
+    
+  }
+  
+  .feedback{
+      font-weight: 400;
+      font-size: 40px;
+      margin-bottom: 10px;  
+  }
