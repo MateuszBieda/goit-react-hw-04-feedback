@@ -1,6 +1,8 @@
 import css from 'components/FeedbackOptions/FeedbackOptions.module.css';
 import PropTypes from "prop-types";
 
+
+
 export const FeedbackOptions = ({ options, addFeedback }) => {
   return (
     <div>
